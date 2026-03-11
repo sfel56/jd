@@ -14,4 +14,21 @@ vless://240b16d3-e2bb-4155-a901-faf052061cb7@www.visa.com:80/?type=ws&encryption
 socks5://4b2c7676:6f0f4cbba5bb@38.111.30.111:26433/#%E7%BA%BD%E7%BA%A6%E4%BD%8F%E5%AE%852%E8%BE%83%E7%BA%AF%E5%87%80
 vless://0ded9a36-6f65-4b02-b6c9-8a0fbb2373e5@fggg.zeabur.app:443/?type=ws&encryption=none&path=%2F&security=tls#US-zeabur-ws
 vless://8ab9d613-0b3a-4362-bdde-e22adaf301a8@sjc1.clusters.zeabur.com:22205/?encryption=none&type=tcp&headerType=http#US-zeabur-tcp
+socks5://44fa737d:1bab4a4504ca@38.96.191.150:21719/#%E7%BA%BD%E7%BA%A6%E4%BD%8F%E5%AE%85ip
+vless://799b707c-c5c0-4a2b-aac9-dab11d4c5628@tcp.eu-central-1.clawcloudrun.com:43226/?type=ws&encryption=none&host=a.189.cn&path=%2F#%E7%88%AA%E4%BA%91-DE%E9%98%BF%E9%87%8C
+vless://29532b5a-f713-483f-9a31-ba77eb1241be@tcp.ap-northeast-1.clawcloudrun.com:44990/?encryption=none&host=a.189.cn&type=tcp&headerType=http#%E7%88%AA%E4%BA%91-JP%E9%98%BF%E9%87%8C
+socks5://w2zm6tehi64n:4r534cw4k50g@asia-relay.lycheeip.com:1337/#hk%E4%BD%8F%E5%AE%85
+socks5://942a0a5a:76c6ddb7fa6a@38.95.213.34:28400/#us5%E4%BD%8F%E5%AE%85
+socks5://ZrgMwvsc8Kv0:l0ka8zh72HjO@204.237.146.158:60088/#us3%E4%BD%8F%E5%AE%85
+vmess://eyJhZGQiOiIxMDcuMTcyLjIxNi4xNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImEuMTg5LmNuIiwiaWQiOiI0NTY4NWI1OC1hYTc0LTRkNTMtZDNkNC0wYjgxMzU3NGVmNzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU0NjU4IiwicHMiOiLnvo7lm73lhY3mtYEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
+
+
+
+
+
+
+
+
+
+
 
