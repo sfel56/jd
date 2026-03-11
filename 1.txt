@@ -12,3 +12,6 @@ vless://240b16d3-e2bb-4155-a901-faf052061cb7@africa.visa.com:8880/?type=ws&encry
 vless://240b16d3-e2bb-4155-a901-faf052061cb7@www.visa.com.sg:2052/?type=ws&encryption=none&host=falling-cloud-6563.sfel5-lmtb7rf4be.workers.dev&path=%2F%3Fed%3D2560&packetEncoding=xudp#CF_V4_www.visa.com.sg_2052
 vless://240b16d3-e2bb-4155-a901-faf052061cb7@www.visa.com:80/?type=ws&encryption=none&host=falling-cloud-6563.sfel5-lmtb7rf4be.workers.dev&path=%2F%3Fed%3D2560&packetEncoding=xudp#CF_V1_www.visa.com_80
 socks5://4b2c7676:6f0f4cbba5bb@38.111.30.111:26433/#%E7%BA%BD%E7%BA%A6%E4%BD%8F%E5%AE%852%E8%BE%83%E7%BA%AF%E5%87%80
+vless://0ded9a36-6f65-4b02-b6c9-8a0fbb2373e5@fggg.zeabur.app:443/?type=ws&encryption=none&path=%2F&security=tls#US-zeabur-ws
+vless://8ab9d613-0b3a-4362-bdde-e22adaf301a8@sjc1.clusters.zeabur.com:22205/?encryption=none&type=tcp&headerType=http#US-zeabur-tcp
+
