@@ -12,7 +12,7 @@ vless://240b16d3-e2bb-4155-a901-faf052061cb7@www.visa.com.sg:2052/?type=ws&encry
 vless://240b16d3-e2bb-4155-a901-faf052061cb7@www.visa.com:80/?type=ws&encryption=none&host=falling-cloud-6563.sfel5-lmtb7rf4be.workers.dev&path=%2F%3Fed%3D2560&packetEncoding=xudp#CF_V1_www.visa.com_80
 socks5://127.0.0.1:1080/#%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E4%BB%A5%E4%B8%8B%E5%85%8D%E6%B5%81%E5%8C%BA%E2%80%94%E2%80%94%E2%80%94%E2%80%94
 vless://0ded9a36-6f65-4b02-b6c9-8a0fbb2373e5@fggg.zeabur.app:443/?type=ws&encryption=none&path=%2F&security=tls#US-zeabur-ws
-vless://8ab9d613-0b3a-4362-bdde-e22adaf301a8@sjc1.clusters.zeabur.com:22205/?type=tcp&encryption=none#US-zeabur-tcp
+vless://8ab9d613-0b3a-4362-bdde-e22adaf301a8@sjc1.clusters.zeabur.com:22205/?encryption=none&host=a.189.cn&type=tcp&headerType=http#US-zeabur-tcp
 vless://799b707c-c5c0-4a2b-aac9-dab11d4c5628@tcp.eu-central-1.clawcloudrun.com:43226/?type=ws&encryption=none&host=a.189.cn&path=%2F#%E7%88%AA%E4%BA%91-DE%E9%98%BF%E9%87%8C
 vless://29532b5a-f713-483f-9a31-ba77eb1241be@tcp.ap-northeast-1.clawcloudrun.com:44990/?encryption=none&host=a.189.cn&type=tcp&headerType=http#%E7%88%AA%E4%BA%91-JP%E9%98%BF%E9%87%8C
 vmess://eyJhZGQiOiIxMDcuMTcyLjIxNi4xNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImEuMTg5LmNuIiwiaWQiOiI0NTY4NWI1OC1hYTc0LTRkNTMtZDNkNC0wYjgxMzU3NGVmNzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU0NjU4IiwicHMiOiLnvo7lm73lhY3mtYEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
