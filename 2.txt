@@ -12,6 +12,8 @@ vless://240b16d3-e2bb-4155-a901-faf052061cb7@africa.visa.com:8880/?type=ws&encry
 vless://240b16d3-e2bb-4155-a901-faf052061cb7@www.visa.com.sg:2052/?type=ws&encryption=none&host=falling-cloud-6563.sfel5-lmtb7rf4be.workers.dev&path=%2F%3Fed%3D2560&packetEncoding=xudp#CF_V4_www.visa.com.sg_2052
 vless://240b16d3-e2bb-4155-a901-faf052061cb7@www.visa.com:80/?type=ws&encryption=none&host=falling-cloud-6563.sfel5-lmtb7rf4be.workers.dev&path=%2F%3Fed%3D2560&packetEncoding=xudp#CF_V1_www.visa.com_80
 socks5://127.0.0.1:1080/#%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E4%BB%A5%E4%B8%8B%E5%85%8D%E6%B5%81%E5%8C%BA%E2%80%94%E2%80%94%E2%80%94%E2%80%94
+vless://6f48b0c2-3807-4784-b162-340e0b8988a4@137.131.9.72:20059/?encryption=none&host=a.189.cn&type=tcp&headerType=http#US-tcp-Vitebits
+vless://53256ad5-7720-4f6f-a39d-9f6acb69d710@137.131.9.72:40080/?type=ws&encryption=none&path=%2F#US-ws-Vitebits
 vless://0ded9a36-6f65-4b02-b6c9-8a0fbb2373e5@fggg.zeabur.app:443/?type=ws&encryption=none&path=%2F&security=tls#US-zeabur-ws
 vless://8ab9d613-0b3a-4362-bdde-e22adaf301a8@sjc1.clusters.zeabur.com:22205/?encryption=none&host=a.189.cn&type=tcp&headerType=http#US-zeabur-tcp
 vless://799b707c-c5c0-4a2b-aac9-dab11d4c5628@tcp.eu-central-1.clawcloudrun.com:43226/?type=ws&encryption=none&host=a.189.cn&path=%2F#%E7%88%AA%E4%BA%91-DE%E9%98%BF%E9%87%8C
