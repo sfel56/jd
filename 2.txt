@@ -18,10 +18,7 @@ vless://df217088-6b49-4cbf-ac33-77b01c58f42d@137.131.9.72:26153/?type=ws&encrypt
 vless://5b2a7b8c-e529-4b12-b940-0d8f7f6491a5@161.153.63.100:40109/?type=ws&encryption=none&host=download.cloud.189.cn&path=%2F#US2-ws-Vitebits
 vless://0ded9a36-6f65-4b02-b6c9-8a0fbb2373e5@fggg.zeabur.app:443/?type=ws&encryption=none&path=%2F&security=tls#US-zeabur-ws
 vless://8ab9d613-0b3a-4362-bdde-e22adaf301a8@sjc1.clusters.zeabur.com:22205/?encryption=none&host=a.189.cn&type=tcp&headerType=http#US-zeabur-tcp
-vless://799b707c-c5c0-4a2b-aac9-dab11d4c5628@tcp.eu-central-1.clawcloudrun.com:43226/?type=ws&encryption=none&host=a.189.cn&path=%2F#%E7%88%AA%E4%BA%91-DE%E9%98%BF%E9%87%8C
-vless://29532b5a-f713-483f-9a31-ba77eb1241be@tcp.ap-northeast-1.clawcloudrun.com:44990/?encryption=none&host=a.189.cn&type=tcp&headerType=http#%E7%88%AA%E4%BA%91-JP%E9%98%BF%E9%87%8C
 vmess://eyJhZGQiOiIxMDcuMTcyLjIxNi4xNDUiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImEuMTg5LmNuIiwiaWQiOiI0NTY4NWI1OC1hYTc0LTRkNTMtZDNkNC0wYjgxMzU3NGVmNzUiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiIiwicG9ydCI6IjU0NjU4IiwicHMiOiLnvo7lm73lhY3mtYEiLCJzY3kiOiJhdXRvIiwic25pIjoiIiwidGxzIjoiIiwidHlwZSI6Imh0dHAiLCJ2IjoiMiJ9
-vmess://eyJhZGQiOiIxLjkyLjEzNy4xODYiLCJhaWQiOiIwIiwiYWxwbiI6IiIsImZwIjoiIiwiaG9zdCI6ImEuMTg5LmNuIiwiaWQiOiJmYjMxMDYzMi04N2ZmLTQ4NzEtZDgwYy03YjdmY2JlMDA5M2MiLCJuZXQiOiJ0Y3AiLCJwYXRoIjoiLyIsInBvcnQiOiI1NTU1IiwicHMiOiLljJfkuqwt5Y2O5Li65LqRMTAwbeWNsemZqSIsInNjeSI6ImF1dG8iLCJzbmkiOiIiLCJ0bHMiOiIiLCJ0eXBlIjoiaHR0cCIsInYiOiIyIn0=
 vmess://eyJhZGQiOiJzaGFuZ2hhaS5jaGowODI3LmNuIiwiYWlkIjoiMCIsImFscG4iOiIiLCJmcCI6IiIsImhvc3QiOiJhLjE4OS5jbiIsImlkIjoiMzQyMWQ3NGUtNTI3My00OTQ4LWExODUtNmI3OWIwZTFiNjI1IiwibmV0Ijoid3MiLCJwYXRoIjoiLyIsInBvcnQiOiI1NjcxMyIsInBzIjoi5LiK5rW35a625a695YWN5rWBIiwic2N5IjoiYXV0byIsInNuaSI6IiIsInRscyI6IiIsInR5cGUiOiIiLCJ2IjoiMiJ9
 socks5://127.0.0.1:1080/#%E2%80%94%E2%80%94%E2%80%94%E2%80%94%E4%BB%A5%E4%B8%8B%E4%BD%8F%E5%AE%85IP%E5%8C%BA%E2%80%94%E2%80%94%E2%80%94%E2%80%94
 socks5://44fa737d:1bab4a4504ca@38.96.191.150:21719/#%E7%BA%BD%E7%BA%A6%E4%BD%8F%E5%AE%85
